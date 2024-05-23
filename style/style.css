@@ -23,6 +23,7 @@ nav {
   width: 100%;
 }
 
+
 .nav-link {
   display: flex;
   list-style: none;
@@ -65,6 +66,11 @@ nav {
   font-size: 8rem;
   display: inline-block;
   padding: 2rem 0;
+}
+
+
+label{
+  display: none;
 }
 
 /* header   */
