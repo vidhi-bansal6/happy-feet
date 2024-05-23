@@ -17,6 +17,12 @@
     font-weight: bold;
     
   }
+  nav{
+    padding: 3rem;
+  }
+  label{
+    display: block;
+  }
   .arrow{
     display: none;
   }
